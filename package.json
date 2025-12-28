@@ -1,0 +1,15 @@
+{
+  "name": "HAB",
+  "version": "1.0.0",
+  "description": "Bot WhatsApp Multi-Device personnalisé pour Abdoul",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@adiwajshing/baileys": "^5.0.0",
+    "openai": "^4.0.0",
+    "axios": "^1.4.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
